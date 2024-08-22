@@ -1,7 +1,7 @@
 <?php
 
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 
 $element = new \App\HtmlElement;
 
-echo "Hola refactorizadores!!!";
+echo $element->render();
