@@ -1,11 +1,16 @@
 {
-    "name": "pc-facu/refactoringphp",
-    "type": "project",
-    "authors": [
-        {
-            "name": "Dudu",
-            "email": "echavezv@utea.edu.pe"
-        }
-    ],
-    "require": {}
+  "name": "pc-facu/refactoringphp",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Dudu",
+      "email": "echavezv@utea.edu.pe"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
 }
