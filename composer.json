@@ -1,0 +1,11 @@
+{
+    "name": "pc-facu/refactoringphp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Dudu",
+            "email": "echavezv@utea.edu.pe"
+        }
+    ],
+    "require": {}
+}
